@@ -1,2 +1,2 @@
 # PhaseFieldComp
-Open-source code for phase field modelling of Composite Materials
+Open-source Code for Phase Field Damage Modelling of Composite Materials
