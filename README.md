@@ -23,6 +23,7 @@ Follow this [link](https://bibekanandadatta.com/link-intel-and-vs-abaqus-2020/) 
 1. Install ABAQUS.
 2. Visual Studio.
 3. Fortran complier. 
+
 Then, creat and submit the job file following the steps below:
 4. Create your CAE model and generate an original input file. 
 5. Prepare your ABAQUS input (.inp) files using the Python scripts in the "./script" folder. The input file examples (original and for-subrotuine) are in the script folder. Run the python script will generate an input file suitable for PF model. 
