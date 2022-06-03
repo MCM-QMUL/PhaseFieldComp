@@ -31,7 +31,9 @@ Then, creat and submit the job file following the steps below:
 
 ## Reference
 If using this code for research or industrial purposes, please cite:
+
 [1] Tan, W. and Martínez-Pañeda, E., 2021. Phase field predictions of microscopic fracture and R-curve behaviour of fibre-reinforced composites. Composites Science and Technology, 202, p.108539. doi: https://doi.org/10.1016/j.compscitech.2020.108539
+
 [2] Tan, W. and Martínez-Pañeda, E., 2022. Phase field fracture predictions of microscopic bridging behaviour of composite materials. Composite Structures, 286, p.115242. doi: https://doi.org/10.1016/j.compstruct.2022.115242
 
 ## License
