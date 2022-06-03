@@ -1,9 +1,9 @@
 # PhaseFieldComp
-Open-source Code for Phase Field Damage Modelling of Composite Materials
+**Open-source Code for Phase Field Damage Modelling of Composite Materials**
 
 ![alt text](https://github.com/MCM-QMUL/PhaseFieldComp/blob/32bcf04f88e2abe90b0683cafd7f88799b3763bb/docs/PFM_microscale.gif)
 
-PhaseFieldComp is a software framework capable of carrying out phase field (PF) fracture simulations. The formulation combines two fracture models. The phase field fracture method, capable of capturing arbitrary crack trajectories, is used to model crack initiation and growth along the matrix and the fibres. Furthermore, fibre-matrix debonding is simulated using a cohesive zone model. The framework is implemented in the commercial finite element package ABAQUS by user subroutines.
+PhaseFieldComp is an open-source framework capable of carrying out phase field (PF) fracture simulations. The formulation combines two fracture models. The phase field fracture method, capable of capturing arbitrary crack trajectories, is used to model crack initiation and growth along the matrix and the fibres. Furthermore, fibre-matrix debonding is simulated using a cohesive zone model. The framework is implemented in the commercial finite element package ABAQUS by user subroutines.
 
 ## Features
 - Beginner friendly framework.
