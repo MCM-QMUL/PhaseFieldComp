@@ -5,6 +5,8 @@
 
 PhaseFieldComp is an open-source framework capable of carrying out phase field (PF) fracture simulations. The formulation combines two fracture models. The phase field fracture method, capable of capturing arbitrary crack trajectories, is used to model crack initiation and growth along the matrix and the fibres. Furthermore, fibre-matrix debonding is simulated using a cohesive zone model. The framework is implemented in the commercial finite element package ABAQUS by user subroutines.
 
+Corresponding authors: Dr Wei Tan (wei.tan@qmul.ac.uk), Dr. Emilio Martínez-Pañeda (e.martinez-paneda@imperial.ac.uk)
+
 ## Features
 - Beginner friendly framework.
 - Can be adapted to model other microscale fracture in composite materials.
